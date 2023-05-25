@@ -16,5 +16,23 @@
     "timeMonth": 376,
     "timeYear": 376,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "files.mstdn-social.com",
+    "url": "https://files.mstdn-social.com/index.html",
+    "icon": "https://icons.duckduckgo.com/ip3/files.mstdn-social.com.ico",
+    "slug": "files-mstdn-social-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 332,
+    "timeDay": 332,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
+    "dailyMinutesDown": {}
   }
 ]
