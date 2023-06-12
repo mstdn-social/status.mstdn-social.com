@@ -22,19 +22,19 @@
     "url": "https://files.mstdn-social.com/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/files.mstdn-social.com.ico",
     "slug": "files-mstdn-social-com",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "93.16%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "93.74%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 421,
     "timeDay": 634,
     "timeWeek": 532,
     "timeMonth": 421,
     "timeYear": 421,
     "dailyMinutesDown": {
-      "2023-06-12": 98
+      "2023-06-12": 90
     }
   }
 ]
