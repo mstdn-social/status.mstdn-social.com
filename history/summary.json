@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mstdn-social.com.ico",
     "slug": "mstdn-social-com",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 344,
-    "timeDay": 143,
-    "timeWeek": 290,
-    "timeMonth": 340,
-    "timeYear": 344,
+    "uptimeYear": "99.79%",
+    "time": 343,
+    "timeDay": 255,
+    "timeWeek": 259,
+    "timeMonth": 337,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2023-06-17": 398
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 329,
-    "timeDay": 198,
-    "timeWeek": 240,
+    "time": 328,
+    "timeDay": 171,
+    "timeWeek": 233,
     "timeMonth": 204,
-    "timeYear": 329,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2023-06-12": 90
     }
