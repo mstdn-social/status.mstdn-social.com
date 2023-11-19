@@ -6,17 +6,16 @@
     "slug": "mstdn-social-com",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 320,
-    "timeDay": 277,
-    "timeWeek": 245,
-    "timeMonth": 263,
-    "timeYear": 320,
+    "time": 321,
+    "timeDay": 281,
+    "timeWeek": 247,
+    "timeMonth": 264,
+    "timeYear": 321,
     "dailyMinutesDown": {
-      "2023-11-18": 9,
       "2023-06-17": 398
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 295,
-    "timeDay": 204,
-    "timeWeek": 159,
-    "timeMonth": 202,
-    "timeYear": 295,
+    "time": 294,
+    "timeDay": 186,
+    "timeWeek": 154,
+    "timeMonth": 204,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2023-06-12": 90
     }
